@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=benito-camarillo&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=benito-camarillo&color=ff69b4&style=flat)
 <!--
 **benito-camarillo/benito-camarillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
